@@ -1,0 +1,64 @@
+{
+  "events": [
+    {
+      "id": "0",
+      "title": "Hackaton",
+      "date": "01/10/2015",
+      "place": "Evergem",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum efficitur sagittis mi, eget vestibulum massa lobortis vulputate. Nunc eros leo, suscipit eu arcu vitae, accumsan ultrices purus. Proin varius condimentum nisi, quis pretium mi volutpat ut. In vitae urna ac nisi porta suscipit sed a turpis.",
+      "attendees": [
+        {
+          "name": "John Doe",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sauro/128.jpg"
+        },
+        {
+          "name": "Jane Doe",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sauro/128.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "title": "Meetup",
+      "date": "12/10/2015",
+      "place": "Ghent",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum efficitur sagittis mi, eget vestibulum massa lobortis vulputate. Nunc eros leo, suscipit eu arcu vitae, accumsan ultrices purus. Proin varius condimentum nisi, quis pretium mi volutpat ut. In vitae urna ac nisi porta suscipit sed a turpis.",
+      "attendees": [
+        {
+          "name": "John Doe",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sauro/128.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Guest speaker: John Doe",
+      "date": "10/11/2015",
+      "place": "Brussels",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum efficitur sagittis mi, eget vestibulum massa lobortis vulputate. Nunc eros leo, suscipit eu arcu vitae, accumsan ultrices purus. Proin varius condimentum nisi, quis pretium mi volutpat ut. In vitae urna ac nisi porta suscipit sed a turpis.",
+      "attendees": [
+        {
+          "name": "Jane Doe",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sauro/128.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Lunch",
+      "date": "06/09/2015",
+      "place": "Leuven",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum efficitur sagittis mi, eget vestibulum massa lobortis vulputate. Nunc eros leo, suscipit eu arcu vitae, accumsan ultrices purus. Proin varius condimentum nisi, quis pretium mi volutpat ut. In vitae urna ac nisi porta suscipit sed a turpis.",
+      "attendees": [
+        {
+          "name": "John Doe",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sauro/128.jpg"
+        },
+        {
+          "name": "Jane Doe",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sauro/128.jpg"
+        }
+      ]
+    }
+  ]
+}
